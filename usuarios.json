@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Florencia",
+    "apellido": "Aramayo",
+    "email": "florencia.aramayo@gmail.com",
+    "contraseña": "flor2024*",
+    "activo": true,
+    "esAdmin": false
+  },
+  {
+    "id": 2,
+    "nombre": "Gabriel",
+    "apellido": "Torres",
+    "email": "gabi.torres@gmail.com",
+    "contraseña": "gt_lanas99",
+    "activo": true,
+    "esAdmin": false
+  },
+  {
+    "id": 3,
+    "nombre": "Sofía",
+    "apellido": "Cardozo",
+    "email": "sofia.cardozo@hotmail.com",
+    "contraseña": "sofi!2026",
+    "activo": false,
+    "esAdmin": false
+  },
+  {
+    "id": 4,
+    "nombre": "Mauro",
+    "apellido": "López",
+    "email": "admin@nortelanas.com",
+    "contraseña": "adminNorte2026",
+    "activo": true,
+    "esAdmin": true
+  }
+]
