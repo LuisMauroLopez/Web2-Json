@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id_usuario": 1,
     "nombre": "Florencia",
     "apellido": "Aramayo",
     "email": "florencia.aramayo@gmail.com",
@@ -9,7 +9,7 @@
     "esAdmin": false
   },
   {
-    "id": 2,
+    "id_usuario": 2,
     "nombre": "Gabriel",
     "apellido": "Torres",
     "email": "gabi.torres@gmail.com",
@@ -18,7 +18,7 @@
     "esAdmin": false
   },
   {
-    "id": 3,
+    "id_usuario": 3,
     "nombre": "Sofía",
     "apellido": "Cardozo",
     "email": "sofia.cardozo@hotmail.com",
@@ -27,7 +27,7 @@
     "esAdmin": false
   },
   {
-    "id": 4,
+    "id_usuario": 4,
     "nombre": "Mauro",
     "apellido": "López",
     "email": "admin@nortelanas.com",

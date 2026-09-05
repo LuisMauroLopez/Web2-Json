@@ -1,53 +1,54 @@
 [
   {
-    "id": 1,
+    "id_venta": 1,
     "id_usuario": 1,
     "fecha": "2026-08-05",
     "direccion": "Mitre 320, Salta",
     "envioGratis": false,
     "pagado": true,
-    "total": 11200.75,
+    "total": 17600,
     "productos": [
-      { "id_producto": 1, "cantidad": 2, "precioUnitario": 4850.00 },
-      { "id_producto": 5, "cantidad": 1, "precioUnitario": 1500.75 }
+      { "id_producto": 1, "cantidad": 1, "precioUnitario": 12500 },
+      { "id_producto": 5, "cantidad": 1, "precioUnitario": 300 },
+      { "id_producto": 6, "cantidad": 8, "precioUnitario": 600 }
     ]
   },
   {
-    "id": 2,
+    "id_venta": 2,
     "id_usuario": 2,
     "fecha": "2026-08-12",
     "direccion": "Caseros 1450, Salta",
     "envioGratis": true,
     "pagado": true,
-    "total": 6300.50,
+    "total": 15000,
     "productos": [
-      { "id_producto": 3, "cantidad": 1, "precioUnitario": 6300.50 }
+      { "id_producto": 7, "cantidad": 1, "precioUnitario": 15000 }
     ]
   },
   {
-    "id": 3,
+    "id_venta": 3,
     "id_usuario": 1,
     "fecha": "2026-08-20",
     "direccion": "Mitre 320, Salta",
     "envioGratis": false,
     "pagado": false,
-    "total": 4200.00,
+    "total": 10000,
     "productos": [
-      { "id_producto": 2, "cantidad": 2, "precioUnitario": 2100.00 }
+      { "id_producto": 8, "cantidad": 1, "precioUnitario": 10000 }
     ]
   },
   {
-    "id": 4,
+    "id_venta": 4,
     "id_usuario": 3,
     "fecha": "2026-08-27",
     "direccion": "Zuviría 780, Salta",
     "envioGratis": true,
     "pagado": true,
-    "total": 3080.75,
+    "total": 42000,
     "productos": [
-      { "id_producto": 6, "cantidad": 1, "precioUnitario": 980.00 },
-      { "id_producto": 5, "cantidad": 1, "precioUnitario": 1500.75 },
-      { "id_producto": 4, "cantidad": 0, "precioUnitario": 1950.00 }
+      { "id_producto": 9, "cantidad": 1, "precioUnitario": 40000 },
+      { "id_producto": 4, "cantidad": 1, "precioUnitario": 2000 }
     ]
   }
 ]
+

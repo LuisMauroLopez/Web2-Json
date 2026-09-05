@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id_producto": 1,
         "nombre": "Lana Cashmilon",
         "descripcion": "Lana 100% natural, suave y cálida. Ideal para tejidos de invierno.",
         "precio": 12500,
@@ -8,7 +8,7 @@
         "categoria": "lanas"
     },
     {
-        "id": 2,
+        "id_producto": 2,
         "nombre": "Lana Cachemira",
         "descripcion": "Lana acrílica en colores variados. Económica y resistente.",
         "precio": 8200,
@@ -16,7 +16,7 @@
         "categoria": "lanas"
     },
     {
-        "id": 3,
+        "id_producto": 3,
         "nombre": "Lana Dralon",
         "descripcion": "Lana de llama suave y liviana. Perfecta para prendas delicadas.",
         "precio": 7800,
@@ -24,7 +24,7 @@
         "categoria": "lanas"
     },
     {
-        "id": 4,
+        "id_producto": 4,
         "nombre": "Cierre de bronce de 10 a 20cm",
         "descripcion": " Ideal para jeans, o pantalones del estilo.",
         "precio": 2000,
@@ -32,7 +32,7 @@
         "categoria": "merceria"
     },
     {
-        "id": 5,
+        "id_producto": 5,
         "nombre": "Botones de madera, plástico, acrílicos",
         "descripcion": "Perfectos, para decorar prendas o reponer botones perdidos.",
         "precio": 300,
@@ -40,7 +40,7 @@
         "categoria": "merceria"
     },
     {
-        "id": 6,
+        "id_producto": 6,
         "nombre": "Cintas de raso",
         "descripcion": "De distintas medidas. Tenemos todos los colores.",
         "precio": 600,
@@ -48,7 +48,7 @@
         "categoria": "merceria"
     },
     {
-        "id": 7,
+        "id_producto": 7,
         "nombre": "Bufanda Tejida",
         "descripcion": "Bufanda artesanal tejida en lana cachemira. Talle única.",
         "precio": 15000,
@@ -56,7 +56,7 @@
         "categoria": "tejidos"
     },
     {
-        "id": 8,
+        "id_producto": 8,
         "nombre": "Gorro de Lana",
         "descripcion": "Gorro tejido a mano en lana acrílica. Varios colores disponibles.",
         "precio": 10000,
@@ -64,7 +64,7 @@
         "categoria": "tejidos"
     },
     {
-        "id": 9,
+        "id_producto": 9,
         "nombre": "Sueter escote en V",
         "descripcion": "Sueter tejido a mano , cuello en V.",
         "precio": 40000,
