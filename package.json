@@ -1,0 +1,14 @@
+{
+  "name": "web2-json",
+  "version": "1.0.0",
+  "description": "TP2 - Servidor Express para gestionar usuarios, productos y ventas (Norte Lanas)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Lopez Luis Mauro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
