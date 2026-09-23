@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "TP2 - Servidor Express para gestionar usuarios, productos y ventas (Norte Lanas)",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "node server.js"
   },

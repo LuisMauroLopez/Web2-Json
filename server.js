@@ -1,15 +1,15 @@
-const express = require('express');
-const fs = require('fs');
-const path = require('path');
+import express from 'express';
+import fs from 'fs';
 
 const app = express();
 const PORT = 3000;
 
 app.use(express.json());
 
-const USUARIOS_PATH = path.join(__dirname, 'usuarios.json');
-const PRODUCTOS_PATH = path.join(__dirname, 'productos.json');
-const VENTAS_PATH = path.join(__dirname, 'ventas.json');
+// Rutas relativas: funcionan porque el servidor se ejecuta desde la raíz del proyecto
+const USUARIOS_PATH = './usuarios.json';
+const PRODUCTOS_PATH = './productos.json';
+const VENTAS_PATH = './ventas.json';
 
 function leerJSON(ruta) {
   return JSON.parse(fs.readFileSync(ruta, 'utf-8'));
